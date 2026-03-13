@@ -63,7 +63,7 @@ export default function App() {
         <div className={styles.header}>
           <h1 className={styles.title}>날씨 앱</h1>
           <p className={styles.subtitle}>
-            OpenWeather API를 사용한 실시간 날씨 정보-v1.011111
+            OpenWeather API를 사용한 실시간 날씨 정보-v1.222222
           </p>
         </div>
 
